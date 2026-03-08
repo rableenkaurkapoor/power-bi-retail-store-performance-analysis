@@ -90,49 +90,6 @@ Interactive slicers were added for:
 
 All slicers update the entire dashboard dynamically.
 
----
-
-# ◾ TESTED INTERACTIVITY
-
-- Verified that Region and State slicers correctly filter all visuals, including historical trends and forecast views  
-- Ensured KPI cards, charts, and the 15-day sales forecast update consistently with slicer selections  
-- Checked unit formatting (K for thousands, M for millions) across all visuals, including forecast values  
-- Validated that zoomed-in trend and forecast visuals respond accurately to user interactions  
-
----
-
-# ◾ KEY FINDINGS
-
-- Technology and Office Supplies contribute the highest share of total sales  
-- The Consumer segment generates the largest portion of revenue  
-- Sales and profit exhibit noticeable monthly and daily fluctuations, reflecting seasonality and demand variability  
-- Shipping mode and payment method significantly impact overall sales performance  
-- Regional and state-level analysis highlights performance differences across locations  
-- Historical sales trends show an overall upward movement, which supports the short-term forecast  
-- The 15-day sales forecast indicates moderate growth with variability, helping anticipate near-term demand and planning needs  
-
----
-
-# ◾ SKILLS DEMONSTRATED
-
-- Power BI dashboard development and layout design  
-- DAX measures and KPI creation  
-- Retail sales, profit, and customer segment analysis  
-- Time-series trend analysis and short-term sales forecasting  
-- Data cleaning and preparation  
-- Interactive reporting using slicers and filters  
-- Business-focused data storytelling and decision support  
-
----
-
-## 📊 Tools Used
-**Power BI, DAX**
-
-## 📁 Domain
-**Retail Analytics / Business Intelligence**
-
----
-
 # 📊 VISUALIZATIONS
 
 ---
@@ -301,19 +258,41 @@ This visualization supports inventory planning, staffing decisions, and demand f
 
 ---
 
-# TESTED INTERACTIVITY
+# ◾ TESTED INTERACTIVITY
 
-✔ All slicers update KPIs and visuals instantly  
-✔ Region + State filters work together  
-✔ Clean layout ensures easy storytelling  
+- Verified that Region and State slicers correctly filter all visuals, including historical trends and forecast views  
+- Ensured KPI cards, charts, and the 15-day sales forecast update consistently with slicer selections  
+- Checked unit formatting (K for thousands, M for millions) across all visuals, including forecast values  
+- Validated that zoomed-in trend and forecast visuals respond accurately to user interactions  
 
 ---
 
-# SKILLS DEMONSTRATED
+# ◾ KEY FINDINGS
 
-- Power BI Dashboard Design & Storytelling  
-- DAX Measures & KPI Creation  
-- Retail Sales & Profit Analysis  
-- Interactive Slicers (Region & State)  
-- Data Modeling & Formatting  
-- Business-focused insights  
+- Technology and Office Supplies contribute the highest share of total sales  
+- The Consumer segment generates the largest portion of revenue  
+- Sales and profit exhibit noticeable monthly and daily fluctuations, reflecting seasonality and demand variability  
+- Shipping mode and payment method significantly impact overall sales performance  
+- Regional and state-level analysis highlights performance differences across locations  
+- Historical sales trends show an overall upward movement, which supports the short-term forecast  
+- The 15-day sales forecast indicates moderate growth with variability, helping anticipate near-term demand and planning needs  
+
+---
+
+# ◾ SKILLS DEMONSTRATED
+
+- Power BI dashboard development and layout design  
+- DAX measures and KPI creation  
+- Retail sales, profit, and customer segment analysis  
+- Time-series trend analysis and short-term sales forecasting  
+- Data cleaning and preparation  
+- Interactive reporting using slicers and filters  
+- Business-focused data storytelling and decision support  
+
+---
+
+## 📊 Tools Used
+**Power BI, DAX**
+
+## 📁 Domain
+**Retail Analytics / Business Intelligence**
