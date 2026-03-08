@@ -89,9 +89,6 @@ Interactive slicers were added for:
 - State-level selection using a map-like button slicer for detailed filtering  
 
 All slicers update the entire dashboard dynamically.
-
-# 📊 VISUALIZATIONS
-
 ---
 
 ## 1️⃣ KPI CARDS (TOP METRICS)
