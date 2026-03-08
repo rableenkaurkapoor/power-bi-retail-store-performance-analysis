@@ -297,5 +297,3 @@ This visualization supports inventory planning, staffing decisions, and demand f
 - **Power Query** – Performed basic data preparation including verifying data types, organizing fields, and preparing the dataset for accurate analysis and visualization.
 
 - **Excel / CSV Dataset** – Used retail transaction data containing order details, customer segments, geographic information, and product sales records for analysis.
-
-- **PowerPoint** – Recorded and presented the dashboard walkthrough explaining the visualizations, insights, and interactive features of the project.
