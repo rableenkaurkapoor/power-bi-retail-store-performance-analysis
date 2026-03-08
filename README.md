@@ -139,7 +139,7 @@ Insight: Sales show steady growth with strong peaks toward year-end, highlightin
 
 ## 4️⃣ SALES BY SEGMENT (DONUT CHART)
 
-Customer Contribution to Sales:
+Purpose: Customer Contribution to Sales
 
 <img width="832" height="558" alt="image" src="https://github.com/user-attachments/assets/8978fa3b-4fef-459e-901a-64313f83b0ae" />
 
