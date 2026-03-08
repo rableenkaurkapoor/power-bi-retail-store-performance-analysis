@@ -288,8 +288,14 @@ This visualization supports inventory planning, staffing decisions, and demand f
 
 ---
 
-## 📊 Tools Used
-**Power BI, DAX**
+## 🛠 Tools Used
 
-## 📁 Domain
-**Retail Analytics / Business Intelligence**
+- **Power BI** – Built an interactive dashboard to analyze retail sales performance, profitability, customer segments, and product trends using multiple visuals and slicers.
+
+- **DAX (Data Analysis Expressions)** – Created core measures such as Total Sales, Total Profit, and Total Quantity to power KPI cards and ensure consistent calculations across visuals.
+
+- **Power Query** – Performed basic data preparation including verifying data types, organizing fields, and preparing the dataset for accurate analysis and visualization.
+
+- **Excel / CSV Dataset** – Used retail transaction data containing order details, customer segments, geographic information, and product sales records for analysis.
+
+- **PowerPoint** – Recorded and presented the dashboard walkthrough explaining the visualizations, insights, and interactive features of the project.
