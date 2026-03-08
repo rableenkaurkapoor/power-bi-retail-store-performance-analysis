@@ -139,8 +139,7 @@ All slicers update the entire dashboard dynamically.
 
 ## 1️⃣ KPI CARDS (TOP METRICS)
 
-
-<img width="975" height="265" alt="image" src="https://github.com/user-attachments/assets/42ca1696-5e84-4e4d-8775-aada2559d474" />
+<img width="1212" height="181" alt="image" src="https://github.com/user-attachments/assets/66fcdf8a-8fa8-48ab-9451-17df02072353" />
 
 ### Profit Card – 175K  
 Shows total profit generated across all selected filters (region, state, category).
@@ -157,7 +156,8 @@ Represents the total number of products sold.
 
 Purpose: Understand how customers pay.
 
-Image
+<img width="825" height="587" alt="image" src="https://github.com/user-attachments/assets/b023aa27-a545-4d01-ad01-bf46cdf36aa8" />
+
 
 - COD – 42.62%  
 - Online – 35.38%  
@@ -171,7 +171,8 @@ Insight: Cash on Delivery dominates, indicating customer preference and potentia
 
 Purpose: Track sales trends over time (2019 vs 2020).
 
-Image
+<img width="818" height="471" alt="image" src="https://github.com/user-attachments/assets/5062f5b4-2905-4eec-9b1d-9ff3cff895c6" />
+
 
 - X-axis: Months  
 - Y-axis: Sales  
@@ -186,7 +187,7 @@ Insight: Sales show steady growth with strong peaks toward year-end, highlightin
 
 Customer Contribution to Sales:
 
-Image
+<img width="832" height="558" alt="image" src="https://github.com/user-attachments/assets/8978fa3b-4fef-459e-901a-64313f83b0ae" />
 
 - Consumer – 48.09%  
 - Corporate – 32.55%  
@@ -200,7 +201,7 @@ Insight: Consumer segment drives nearly half of total sales, making it the prima
 
 Purpose: Analyze profitability trends over time.
 
-Image
+<img width="807" height="451" alt="image" src="https://github.com/user-attachments/assets/df104357-2ff2-4898-bbcb-76a959af301e" />
 
 Highlights profit fluctuations and identifies months with high or low margins.
 
@@ -212,7 +213,7 @@ Insight: Profit does not always follow sales exactly, indicating cost and discou
 
 Category Performance:
 
-Image
+<img width="502" height="591" alt="image" src="https://github.com/user-attachments/assets/3e652689-7ec3-4454-9d40-400b69247725" />
 
 - Office Supplies – 0.6M  
 - Technology – 0.5M  
@@ -226,7 +227,7 @@ Insight: Office Supplies generate the highest revenue among categories.
 
 Logistics Performance:
 
-Image
+<img width="497" height="662" alt="image" src="https://github.com/user-attachments/assets/e391b786-5a54-4167-9f2b-2bc37c06f664" />
 
 - Standard Class – 0.50M  
 - Second Class – 0.17M  
@@ -241,7 +242,7 @@ Insight: Standard shipping is most used, showing cost-efficient delivery prefere
 
 Top Sub-Categories:
 
-Image
+<img width="562" height="637" alt="image" src="https://github.com/user-attachments/assets/36c5d847-4bcf-4afb-8192-86e189c0ecce" />
 
 - Phones – 0.20M  
 - Chairs – 0.18M  
@@ -255,7 +256,7 @@ Insight: Phones and Chairs are high-revenue products, useful for inventory and m
 
 ## 9️⃣ REGION SLICER (BUTTON TABS)
 
-Image
+<img width="812" height="131" alt="image" src="https://github.com/user-attachments/assets/158b80be-1ffe-428b-b71c-0bdb37bf14dc" />
 
 Central | East | South | West
 
@@ -265,7 +266,7 @@ Allows users to instantly filter the entire dashboard by region.
 
 ## 🔟 STATE SLICER (MAP-LIKE BUTTON SLICER)
 
-Image
+<img width="485" height="640" alt="image" src="https://github.com/user-attachments/assets/9e21eeec-8b82-4246-b578-89f744341e57" />
 
 - Replaces traditional map visuals  
 - States displayed as rounded buttons  
@@ -275,11 +276,11 @@ Insight: Provides map-style geographic filtering without map dependency issues, 
 
 ---
 
-## 11️⃣ SALES BY ORDER DATE (LINE GRAPH)
+## 1️⃣1️⃣ SALES BY ORDER DATE (LINE GRAPH)
 
 Purpose: Analyze historical daily sales trends and predict short-term future sales performance.
 
-Image
+<img width="821" height="512" alt="image" src="https://github.com/user-attachments/assets/fcdbcb62-6c6e-4486-8046-42ac2d681d2b" />
 
 - Displays daily sales data from 2019 to 2021  
 - Green line represents actual historical sales  
@@ -300,7 +301,7 @@ This visualization supports inventory planning, staffing decisions, and demand f
 
 ---
 
-# ✔ TESTED INTERACTIVITY
+# TESTED INTERACTIVITY
 
 ✔ All slicers update KPIs and visuals instantly  
 ✔ Region + State filters work together  
@@ -308,7 +309,7 @@ This visualization supports inventory planning, staffing decisions, and demand f
 
 ---
 
-# 🧠 SKILLS DEMONSTRATED
+# SKILLS DEMONSTRATED
 
 - Power BI Dashboard Design & Storytelling  
 - DAX Measures & KPI Creation  
