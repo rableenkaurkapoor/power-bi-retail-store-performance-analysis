@@ -1,13 +1,10 @@
 # POWER BI DASHBOARD — RETAIL STORE SALES/PERFORMANCE ANALYSIS
 
-Welcome to my Power BI project wiki!  
-
 In this project, I built an interactive Power BI dashboard to analyze retail store sales data representing a large-scale retail company similar to Walmart. The dashboard helps understand overall sales performance, profitability, customer segments, and product trends, with interactive slicers for easy exploration, along with a sales forecasting view to analyze historical trends and predict the next 15 days of sales using interactive visuals and slicers.
 
 ---
 
 # ◾ MY GOAL
-
 My goal was to analyze retail sales data using Power BI to identify key business insights such as:
 
 - Overall sales, profit, and quantity performance  
@@ -16,7 +13,6 @@ My goal was to analyze retail sales data using Power BI to identify key business
 - Regional and state-level sales behavior  
 
 ---
-
 # ◾ DATA USED (RETAIL TRANSACTION DATA)
 
 The dataset contains real-world retail information, including:
